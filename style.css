@@ -1,0 +1,22 @@
+#c{
+    width: 150px;
+    height: 40px;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: 600;
+}
+#scr{
+    width: 290px;
+    height:20px;
+}
+#main{
+    text-align: center;
+
+}
+button{
+    border: none;
+    padding: 10px;
+    MARGIN-top: 10PX;
+    padding-right: 5%;
+    background-color: cyan;
+}
